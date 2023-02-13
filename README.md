@@ -68,3 +68,23 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Chú ý trong dự án
+
+## src: `Thư mục này chứa tất cả mã nguồn JavaScript, các component React và các tập tin css.`
+
+### src/components: `Thư mục này chứa các component con của dự án.`
+
+### src/pages: `Thư mục này chứa các trang chính của dự án, mỗi trang là một component con.`
+
+### src/layouts: `Chứa các layout có thể sử dụng lại.`
+
+### src/helpers: `Thư mục này chứa các hàm trợ giúp cần thiết cho dự án.`
+
+### src/routes: `Thư mục này chứa các đường dẫn của dự án.`
+
+### src/assets: `Thư mục này chứa các tập tin tài nguyên như hình ảnh, font, vv.`
+
+### src/api: `Chứa các file api trong hệ thống.`
+
+### src/App.js: `Tập tin này là component chính của dự án và tạo cấu trúc của trang web.`
